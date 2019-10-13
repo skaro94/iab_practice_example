@@ -6,3 +6,4 @@ opencv-contrib-python==3.3.0.10
 numpy==1.16.2
 tqdm==4.31.1
 wget==3.2
+requests==2.22.0
